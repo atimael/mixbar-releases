@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/atimael/mixbar-releases/releases/latest/download/Mixbar-1.0.zip" length="6550216" type="application/octet-stream" sparkle:edSignature="GGszXsAmMGqKMB+hay4vtB0+m02ujrqDTiSDRl6DwvoaQRou+GuJu/FGgarE8jIMAN0X/XJW5THMlsClu4DlAQ=="/>
+            <enclosure url="https://github.com/atimael/mixbar-releases/releases/latest/download/Mixbar-1.0.zip" length="6551157" type="application/octet-stream" sparkle:edSignature="Iqx+uPKLiEqBRzXGALn34pLEFs8pksEjA+9YByERlM9PASoRvEyQRDrDatbWSf3OxQB4i67sViwOQjb7dSKBDw=="/>
         </item>
     </channel>
 </rss>
