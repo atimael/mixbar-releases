@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/atimael/mixbar-releases/releases/latest/download/Mixbar-1.0.2.zip" length="6584371" type="application/octet-stream" sparkle:edSignature="eYiDPnjt/XXY91IG2DWtnwyD9zzUmuX7mYwQ7CDicMrR+rOUepQGTizVrh02el5tM/WxlBxD24lDOXXLCBJtDg=="/>
+            <enclosure url="https://github.com/atimael/mixbar-releases/releases/download/v1.0.2/Mixbar-1.0.2.zip" length="6584371" type="application/octet-stream" sparkle:edSignature="eYiDPnjt/XXY91IG2DWtnwyD9zzUmuX7mYwQ7CDicMrR+rOUepQGTizVrh02el5tM/WxlBxD24lDOXXLCBJtDg=="/>
         </item>
         <item>
             <title>1.0.1</title>
@@ -16,7 +16,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/atimael/mixbar-releases/releases/latest/download/Mixbar-1.0.1.zip" length="6574336" type="application/octet-stream" sparkle:edSignature="k6mS6/1u3LkPxzHlbygOEJIWQcTPNCDXySDGrDzttBoXX7SsijPfAX10Y7g9EdTwUOVQ6zT3HzUKT/uJU1sVAQ=="/>
+            <enclosure url="https://github.com/atimael/mixbar-releases/releases/download/v1.0.1/Mixbar-1.0.1.zip" length="6574336" type="application/octet-stream" sparkle:edSignature="k6mS6/1u3LkPxzHlbygOEJIWQcTPNCDXySDGrDzttBoXX7SsijPfAX10Y7g9EdTwUOVQ6zT3HzUKT/uJU1sVAQ=="/>
         </item>
         <item>
             <title>1.0</title>
@@ -24,7 +24,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/atimael/mixbar-releases/releases/latest/download/Mixbar-1.0.zip" length="6557338" type="application/octet-stream" sparkle:edSignature="46eJlndDTq4LlRFgytfsntiDcbsa92xCcYFIVmpsYNP6ilNYS3dasWZbjVwHbH1yqKFhxvFbztS5oR4hOEjaDw=="/>
+            <enclosure url="https://github.com/atimael/mixbar-releases/releases/download/v1.0/Mixbar-1.0.zip" length="6557338" type="application/octet-stream" sparkle:edSignature="46eJlndDTq4LlRFgytfsntiDcbsa92xCcYFIVmpsYNP6ilNYS3dasWZbjVwHbH1yqKFhxvFbztS5oR4hOEjaDw=="/>
         </item>
     </channel>
 </rss>
