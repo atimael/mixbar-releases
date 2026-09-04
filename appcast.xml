@@ -3,6 +3,14 @@
     <channel>
         <title>Mixbar</title>
         <item>
+            <title>2.0.5</title>
+            <pubDate>Fri, 04 Sep 2026 20:34:54 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/atimael/mixbar-releases/releases/download/v2.0.5/Mixbar-2.0.5.pkg" type="application/octet-stream" sparkle:edSignature="WdSWDu6OHxQWc8r2IGcVjdiMEdisrLmTG60FyaLwEG7SNtk2q8NkuF3hb/CsbkRdK6zSTKzLMuM0LZvTKY7GDQ==" length="8180553"/>
+        </item>
+        <item>
             <title>2.0.4</title>
             <pubDate>Thu, 03 Sep 2026 22:56:11 +0200</pubDate>
             <sparkle:version>12</sparkle:version>
